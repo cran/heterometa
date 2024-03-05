@@ -1,0 +1,5 @@
+export(higgins)
+S3method(print,higgins)
+importFrom("stats", "qchisq", "qnorm")
+importFrom("Rdpack", "reprompt")
+import("mathjaxr")

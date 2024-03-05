@@ -1,0 +1,14 @@
+14747cdb3379ba9065c9d9a45e169400 *DESCRIPTION
+ec97a112db63a2c64f75a944e654e207 *NAMESPACE
+353ce60dd2347878a2d20a203df302be *NEWS
+2b021a40b29b12958ed38b85330d4cfd *R/higgins.R
+24c7f560aae578a078266f9b15609b99 *R/print.higgins.R
+3e1fdecd7666944ebda3360b5dfcc2fe *build/heterometa.pdf
+fc02c4c67886c114cac3c64fe63e7abe *build/partial.rdb
+1fbb116a08ccb9ef691aa0422a3bab91 *build/stage23.rdb
+ac8c641c17d49c67b9a484535f9733a5 *data/dat.higgins02.rda
+f08c56dc8de701440f9e0926ed96a672 *inst/CITATION
+96e8620a4b028bac63dfa54adb3bbd36 *inst/REFERENCES.bib
+66f5a4b843ed15b14783eed06e037d0c *man/dat.higgins02.Rd
+685cb406cc0da0b2c25014249a0423c9 *man/heterometa-package.Rd
+9e4e7330f68cd4f1aa6fb17e365d871f *man/higgins.Rd
