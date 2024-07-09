@@ -4,3 +4,10 @@ Changes in version 0.1
 Changes in version 0.2
    - updated DESCRIPTION
    - edited documentation
+
+Changes in version 0.3
+   - improved documentation
+   - allowed for input of I2
+   - improved error checking
+   - improved layout of printing
+   

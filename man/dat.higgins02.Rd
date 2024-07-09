@@ -19,9 +19,9 @@ The package contains the following dataset: \code{higgins02}.
      \item{\code{R}}{The value of R}
      \item{\code{Rlo}}{Lower limit of the interval for R}
      \item{\code{Rhi}}{Upper limit of the interval for R}
-     \item{\code{I2}}{The value of I2}
-     \item{\code{I2lo}}{Lower limit of the interval for I2}
-     \item{\code{I2hi}}{Upper limit of the interval for I2}
+     \item{\code{I2}}{The value of \mjseqn{I^2}}
+     \item{\code{I2lo}}{Lower limit of the interval for \mjseqn{I^2}}
+     \item{\code{I2hi}}{Upper limit of the interval for \mjseqn{I^2}}
      }
    }
 \note{
@@ -30,11 +30,11 @@ The package contains the following dataset: \code{higgins02}.
   The row names of the data frame are labels for the topic
   of the meta-analysis: Albumin, AdjuvantChemo, Sclerotherapy,
    CDPCholine, GammaNail. The value for \mjseqn{I^2} for AdjuvantChemo
-   is as given in the artricle but is almost certainly a
+   is as given in the article but is almost certainly a
    typo for 29 not 20.
    
-   Not all the variables are used in this package but are presented
-   for reference.
+   Not all the variables are used in this package but are
+   here for reference or possible use elsewhere.
 }
 \author{Michael Dewey}
 
