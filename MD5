@@ -1,12 +1,12 @@
-61f3d2bd34b09b7d0760780d1f68205d *DESCRIPTION
+6964158f46ea9c90b53a7431b558151b *DESCRIPTION
 ec97a112db63a2c64f75a944e654e207 *NAMESPACE
-f805b4c8d7f48b9661bc034c4dc1522e *NEWS
+3932be2b03099c27f07d2497c4cb4558 *NEWS
 33d95165bc36a6d045df6d5fb6a4c65a *R/higgins.R
 0a26e2778decf4d2f1e94722572bdefc *R/parchck.R
 07bd0c1c87927adf1b82d8de2ff6d62c *R/print.higgins.R
-32661b988df9e83cd67a63005974edb2 *build/heterometa.pdf
-d6fe7e7a099b6d68eb523778934a807b *build/partial.rdb
-6a034aa543a94d15ffb1030443efae6a *build/stage23.rdb
+592cef4bdacf85375f44c0ffd9c62b6a *build/heterometa.pdf
+faba92714d6d4389aa643b04c5f47498 *build/partial.rdb
+ac35d456e8a3964138c37cd6a4684005 *build/stage23.rdb
 ac8c641c17d49c67b9a484535f9733a5 *data/dat.higgins02.rda
 f08c56dc8de701440f9e0926ed96a672 *inst/CITATION
 96e8620a4b028bac63dfa54adb3bbd36 *inst/REFERENCES.bib

@@ -1,9 +1,5 @@
-Changes in version 0.1
-   - version not released
-   
-Changes in version 0.2
-   - updated DESCRIPTION
-   - edited documentation
+Changes in version 0.4
+   - depend on later version of mathjaxr
 
 Changes in version 0.3
    - improved documentation
@@ -11,3 +7,9 @@ Changes in version 0.3
    - improved error checking
    - improved layout of printing
    
+Changes in version 0.2
+   - updated DESCRIPTION
+   - edited documentation
+
+Changes in version 0.1
+   - version not released
